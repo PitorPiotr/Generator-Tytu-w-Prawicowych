@@ -1,0 +1,23 @@
+
+h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	position: center;
+	font-size: 30px bold;
+	margin: 15px;
+
+}
+.ramka {font-family: 'Amatic SC', cursive; 
+	font-size: 60px;
+	margin: 15px;
+	border: 5px solid red;
+	padding: 5px;
+	background-color: yellow;	
+}
+
+.artfoto {height: 200px; width: 300px; 
+	margin: 15px;
+}
+
+#button {margin: 15px;
+	border: 5px solid red;
+}
